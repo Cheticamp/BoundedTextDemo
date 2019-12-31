@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bounded Text Demo</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="default_text">Enter text above to check the functionality.</string>
+</resources>
